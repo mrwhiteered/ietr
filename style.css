@@ -141,7 +141,9 @@ margin-bottom: 20px;
     margin-right: 0px;
     width: 200px;
 }
-
+#regOpen{
+    display: none;
+}
 .img_1 {
     margin-top: 5px;
     margin-left: 10PX;
